@@ -5,6 +5,4 @@ dependencies:
 - python=3.12
 - openai
 - python-dotenv
-- pip
-- pip:
-  - azure-ai-inference
+- azure-ai-inference
